@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CuliNote</string>
+    <string name="back">Back</string>
+    <string name="enter_recipe_keyword">Enter Recipe Keyword</string>
+    <string name="search">Search</string>
+    <string name="culinote">CuliNote</string>
+    <string name="meal_tracker">Meal Tracker</string>
+    <string name="saved_recipe">Saved Recipe</string>
+    <string name="find_recipe">Find Recipe</string>
+    <string name="tracked_meals">Tracked Meals</string>
+    <string name="saved_recipes">Saved Recipes</string>
+</resources>
