@@ -1,6 +1,6 @@
 # CuliNote
 
-A recipe and meal-tracking Android app built as a capstone project at Bunker Hill Community College. CuliNote allows users to search for recipes, save meals, and track expiration dates — all from a clean, responsive mobile interface.
+A recipe and meal-tracking Android app built as a capstone project at Bunker Hill Community College. CuliNote allows users to search for recipes, save meals, and track expiration dates, all from a clean, responsive mobile interface.
 
 ---
 
@@ -39,7 +39,7 @@ _Coming soon_
 
 - Android Studio (latest stable)
 - Android SDK 26+
-- A free Spoonacular API key — get one at [spoonacular.com/food-api](https://spoonacular.com/food-api)
+- A free Spoonacular API key, get one at [spoonacular.com/food-api](https://spoonacular.com/food-api)
 
 ### Setup
 
@@ -77,7 +77,7 @@ app/
 
 ## Status
 
-Complete — built and submitted as a capstone project in June 2025.
+Complete, built and submitted as a capstone project in June 2025.
 
 ---
 
